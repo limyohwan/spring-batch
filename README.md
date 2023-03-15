@@ -19,4 +19,4 @@
 - 완성도 있고 유지보수와 확장성있는 개발 가능
 
 ### 스프링 배치 구성
-![springbatch](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cf3ebc6-88e3-4af3-afb4-4307a0f5b6f1/Untitled.png)
+<img width="682" alt="spring-batch" src="https://user-images.githubusercontent.com/54053001/225318066-69a0922c-7891-4f28-baac-b7a6eae8095f.png">
